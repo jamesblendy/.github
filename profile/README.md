@@ -41,7 +41,7 @@ Blendy is a modular liquidity infrastructure layer that enables **zero-cost borr
 
 ## Tech Stack
 
-- **Smart Contracts**: Rust, Anchor (Solana)  
+- **Smart Contracts**: Rust, Anchor  
 - **Frontend**: React, Next.js, Tailwind  
 - **Backend/Indexing**: Node.js with RPC/indexers  
 - **Infra/Oracles**: Pyth, Switchboard  
@@ -52,7 +52,7 @@ Blendy is a modular liquidity infrastructure layer that enables **zero-cost borr
 
 ## Getting Started
 
-Prerequisite: A supported Solana wallet (e.g., Phantom).
+Prerequisite: A supported Web3 wallet (e.g., Phantom).
 
 1. Connect wallet and deposit supported collateral.  
 2. Choose borrowing amount and (optional) self-repayment toggle.  
@@ -71,7 +71,7 @@ Prerequisite: A supported Solana wallet (e.g., Phantom).
 
 ## Roadmap (High-Level)
 
-- Solana MVP with yield streaming  
+- MVP with yield streaming  
 - External audits  
 - Mainnet hardening and SDK release  
 - Expanded asset support and strategies  
